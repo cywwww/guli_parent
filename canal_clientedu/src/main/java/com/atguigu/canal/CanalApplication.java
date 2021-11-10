@@ -21,6 +21,6 @@ public class CanalApplication implements CommandLineRunner {
     public void run(String... strings) throws Exception {
         //项目启动，执行canal客户端监听
         canalClient.run();
-//        sss
+//        sss1
     }
 }
